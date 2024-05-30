@@ -1,0 +1,3 @@
+improt os
+os.system("Clear")
+print (hello)
